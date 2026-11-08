@@ -1,0 +1,28 @@
+{
+  "name": "equipdash",
+  "owner": {
+    "name": "EquipDash",
+    "email": "support@equipdash.com"
+  },
+  "metadata": {
+    "description": "The EquipDash plugin for AI agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "equipdash",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Run a rental or activity business from your AI agent: today's pickups and returns, bookings, availability, customers, items and payments, through EquipDash's MCP server.",
+      "author": {
+        "name": "EquipDash",
+        "email": "support@equipdash.com"
+      },
+      "homepage": "https://equipdash.com",
+      "repository": "https://github.com/equipdash/agent",
+      "license": "MIT",
+      "keywords": ["equipdash", "bookings", "rentals", "activities", "scheduling", "payments", "mcp"],
+      "category": "productivity"
+    }
+  ]
+}

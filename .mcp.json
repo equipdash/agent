@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "equipdash": {
+      "type": "http",
+      "url": "https://app.equipdash.com/mcp/v1"
+    }
+  }
+}

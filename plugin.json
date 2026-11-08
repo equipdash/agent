@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "equipdash",
+  "version": "1.0.0",
+  "description": "Run a rental or activity business from your AI agent: today's pickups and returns, bookings, availability, customers, items and payments, through EquipDash's MCP server.",
+  "author": {
+    "name": "EquipDash",
+    "email": "support@equipdash.com",
+    "url": "https://equipdash.com"
+  },
+  "homepage": "https://equipdash.com",
+  "repository": "https://github.com/equipdash/agent",
+  "license": "MIT",
+  "keywords": ["equipdash", "bookings", "rentals", "activities", "scheduling", "payments", "mcp"],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "equipdash": { "trust": "untrusted" }
+      }
+    }
+  }
+}

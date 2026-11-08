@@ -1,0 +1,20 @@
+{
+  "name": "equipdash",
+  "displayName": "EquipDash",
+  "version": "1.0.0",
+  "description": "Run a rental or activity business from your AI agent: today's pickups and returns, bookings, availability, customers, items and payments, through EquipDash's MCP server.",
+  "author": {
+    "name": "EquipDash",
+    "email": "support@equipdash.com",
+    "url": "https://equipdash.com"
+  },
+  "homepage": "https://equipdash.com",
+  "repository": "https://github.com/equipdash/agent",
+  "license": "MIT",
+  "keywords": ["equipdash", "bookings", "rentals", "activities", "scheduling", "payments", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://api-docs.equipdash.com/mcp/mcp-overview",
+  "supportUrl": "https://equipdash.com/contact",
+  "privacyPolicyUrl": "https://equipdash.com/privacy-policy",
+  "termsOfServiceUrl": "https://equipdash.com/terms-of-use"
+}
